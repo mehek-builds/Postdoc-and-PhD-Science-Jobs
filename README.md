@@ -12,6 +12,7 @@ Every role comes straight from the employer's own job board, picked up by [Litos
 | [PhD and graduate internships](lists/phd-internships.md) | 99 | 35 |
 | [Industry fellowships and trainee programs](lists/fellowships.md) | 139 | 53 |
 | [Associate Scientist and Scientist I](lists/early-scientist.md) | 100 | 52 |
+| [Synthetic biology, strain and protein engineering](lists/synthetic-biology-protein-engineering.md) | 6 | 3 |
 
 Click a role to open it, with the employer's own application link. Spreadsheet versions: [csv/](csv/).
 
